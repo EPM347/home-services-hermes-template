@@ -25,7 +25,7 @@ Local roofers lose jobs when leads sit. I set up a free AI office helper
 for faster lead reply (forms/after-hours). First few shops free while I
 prove it.
 
-15 min this week? WhatsApp +1-555-000-0000 or reply here.
+Open to a quick look this week? Reply here and I’ll send details.
 
 YOUR_NAME
 ```
@@ -35,7 +35,7 @@ YOUR_NAME
 ```
 Hi {Company} team — quick bump on my note about a free AI office helper
 for faster lead reply. Happy to show it in 10 minutes if useful.
-WhatsApp +1-555-000-0000 or reply here. — YOUR_NAME
+Reply here if you want the details. — YOUR_NAME
 ```
 
 ## Scoring
