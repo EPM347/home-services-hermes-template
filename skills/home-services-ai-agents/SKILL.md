@@ -105,7 +105,7 @@ This workspace also **prospects** local roofing companies to offer free pilot se
 - **Channels in cold email:** faster lead response / missed-inquiry follow-up — **not** a voice-agent pitch unless the prospect asks  
 - **Voice vs SMS:** decide **per client** after interest  
 - **Volume:** 5–10 personalized emails/day  
-- **Owner contact:** WhatsApp/phone on file; BCC owner on outbound; CC owner when replying to threads  
+- **Owner contact:** keep phone/WhatsApp internally for handoff, but cold emails should use **reply here / reply to this email** only; BCC owner outbound; CC owner when replying to threads  
 - **Outbound mailbox:** **Agent Mail** (`composio-with-hermes`), not personal Gmail when available  
 
 ### Geo
