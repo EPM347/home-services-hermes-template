@@ -19,7 +19,7 @@ Hi {Company} team,
 Local trades lose jobs when leads sit. I set up a free AI office helper
 for faster lead reply (forms/after-hours). First few shops free while I prove it.
 
-15 min this week? WhatsApp {OWNER_PHONE} or reply here.
+Open to a quick look this week? Reply here and I’ll send details.
 
 {YOUR_NAME}
 ```
