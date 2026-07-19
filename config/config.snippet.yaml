@@ -1,0 +1,19 @@
+# Merge into ~/.hermes/config.yaml (owner / default profile)
+
+cron:
+  # Clean Telegram deliveries (content only, no Cronjob Response header)
+  wrap_response: false
+  mirror_delivery: false
+
+# Optional: local Composio MCP bridge (if hosted Connect MCP 401s)
+mcp_servers:
+  composio:
+    command: "${HOME}/.hermes/bin/composio-mcp-bridge"
+    args: []
+    timeout: 180
+    connect_timeout: 60
+
+model:
+  # example — use whatever you already auth with
+  # default: grok-4.5
+  # provider: xai-oauth
