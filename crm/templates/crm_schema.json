@@ -1,0 +1,22 @@
+{
+  "market": "City, ST",
+  "updated_at": null,
+  "count": 0,
+  "with_email": 0,
+  "leads": [],
+  "lead_fields": {
+    "company": "string",
+    "email": "string",
+    "phone": "string",
+    "city": "string",
+    "website": "string",
+    "domain": "string",
+    "status": "new|contacted|replied|qualified|won_pilot|lost|invalid_or_unverified",
+    "subject_variant": "string",
+    "body_variant": "string",
+    "last_contacted": "YYYY-MM-DD",
+    "emails": [],
+    "urls": [],
+    "notes": "string"
+  }
+}
