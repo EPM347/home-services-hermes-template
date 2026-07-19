@@ -13,7 +13,7 @@ description: "Boise/Treasure Valley (and similar) roofer lead CRM + cold outreac
 - **Follow-up** = separate day-N bump to **non-replies only** (default ~day 3 after first touch).
 - Cap **5–10** personalized emails/day.
 - From **Agent Mail** (`your-inbox@agentmail.to` when that inbox is the active one); **BCC** `YOUR_EMAIL@example.com` on outbound; **CC** owner when replying to a live thread.
-- Owner WhatsApp CTA: `+1-555-000-0000`.
+- **No WhatsApp CTA in cold emails**. CTA should be **reply here** / **reply to this email** only. Keep owner email BCC/CC rules.
 - **CRM first** — do not Firecrawl/Apify for every 5-lead send.
 - Chat deliveries: keep reports **content-only** (`cron.wrap_response: false`). Explain settings in plain language if the user asks "what changed."
 
