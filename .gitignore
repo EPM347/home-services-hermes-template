@@ -1,0 +1,12 @@
+.env
+**/.env
+**/auth.json
+**/*.pem
+**/*token*
+**/roofer_crm_boise.json
+**/roofer_outreach_log.json
+**/nous_auth.json
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
